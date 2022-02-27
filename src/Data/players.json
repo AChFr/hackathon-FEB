@@ -1,0 +1,303 @@
+[
+    {
+        "name": "Ernesto Sánchez Díaz",
+        "team": "Unicaja Banco Sinfín",
+        "playerNumber": 12,
+        "playerScore": 12,
+        "playerCost": 10000,
+        "position": "GK",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/1161_ernesto_sanchez_12_frontal.jpg&width=350",
+        "nationality": "ESP",
+        "age": 31,
+        "weight": 101,
+        "height": 190,
+        "stats": {
+            "saves": 87,
+            "totalGoals": 1,
+            "matches": 121,
+            "average": 0.01,
+            "l9m": {
+                "total": 134,
+                "scored": 40
+            },
+            "l6m": {
+                "total": 133,
+                "scored": 32
+            },
+            "l7m": {
+                "total": 34,
+                "scored": 8
+            },
+            "lCont": {
+                "total": 45,
+                "scored": 10
+            },
+            "global": {
+                "total": 335,
+                "scored": 87
+            },
+            "pg": 0,
+            "rec": 2,
+            "ft": 0,
+            "fr": 0
+        }
+    },
+    {
+        "name": "Marti Soler Biescas",
+        "team": "Barça",
+        "playerNumber": 23,
+        "playerScore": 23,
+        "playerCost": 14300,
+        "position": "LW",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260867_23_-_marti_soler_-_002.jpg&width=350",
+        "nationality": "ESP",
+        "age": 18,
+        "weight": 75,
+        "height": 185,
+        "stats": {
+            "saves": 0,
+            "totalGoals": 10,
+            "matches": 7,
+            "average": 1.43,
+            "l9m": {
+                "total": 4,
+                "scored": 3
+            },
+            "l6m": {
+                "total": 5,
+                "scored": 4
+            },
+            "l7m": {
+                "total": 0,
+                "scored": 0
+            },
+            "lCont": {
+                "total": 5,
+                "scored": 3
+            },
+            "global": {
+                "total": 14,
+                "scored": 10
+            },
+            "pg": 0,
+            "rec": 1,
+            "ft": 0,
+            "fr": 0
+        }
+    },
+    {
+        "name": "Víctor Rodríguez Costas",
+        "team": "ABANCA Ademar León",
+        "playerNumber": 88,
+        "playerScore": 88,
+        "playerCost": 22500,
+        "position": "LB",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260305_20212022_bidasoa_irun.jpg&width=350",
+        "nationality": "ESP",
+        "age": 28,
+        "weight": 99,
+        "height": 193,
+        "stats": {
+            "saves": 0,
+            "totalGoals": 417,
+            "matches": 185,
+            "average": 2.25,
+            "l9m": {
+                "total": 36,
+                "scored": 18
+            },
+            "l6m": {
+                "total": 29,
+                "scored": 23
+            },
+            "l7m": {
+                "total": 0,
+                "scored": 0
+            },
+            "lCont": {
+                "total": 0,
+                "scored": 0
+            },
+            "global": {
+                "total": 65,
+                "scored": 41
+            },
+            "pg": 1,
+            "rec": 0,
+            "ft": 1,
+            "fr": 0
+        }
+    },
+    {
+        "name": "Zanas Gabrielius Virbauskas",
+        "team": "ABANCA Ademar León",
+        "playerNumber": 18,
+        "playerScore": 18,
+        "playerCost": 37200,
+        "position": "CB",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260911_18_zanas_gabrielus_1.jpg&width=350",
+        "nationality": "LTU",
+        "age": 24,
+        "weight": 90,
+        "height": 182,
+        "stats": {
+            "saves": 0,
+            "totalGoals": 67,
+            "matches": 18,
+            "average": 3.72,
+            "l9m": {
+                "total": 63,
+                "scored": 40
+            },
+            "l6m": {
+                "total": 37,
+                "scored": 24
+            },
+            "l7m": {
+                "total": 1,
+                "scored": 1
+            },
+            "lCont": {
+                "total": 4,
+                "scored": 2
+            },
+            "global": {
+                "total": 105,
+                "scored": 67
+            },
+            "pg": 28,
+            "rec": 8,
+            "ft": 4,
+            "fr": 0
+        }
+    },
+    {
+        "name": "Paolo Roki",
+        "team": "Recoletas At. Valladolid",
+        "playerNumber": 4,
+        "playerScore": 4,
+        "playerCost": 21300,
+        "position": "RB",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260877_4_paolo_roki_1.jpg&width=350",
+        "nationality": "CRO",
+        "age": 22,
+        "weight": 93,
+        "height": 191,
+        "stats": {
+            "saves": 0,
+            "totalGoals": 34,
+            "matches": 16,
+            "average": 2.13,
+            "l9m": {
+                "total": 16,
+                "scored": 11
+            },
+            "l6m": {
+                "total": 7,
+                "scored": 5
+            },
+            "l7m": {
+                "total": 24,
+                "scored": 18
+            },
+            "lCont": {
+                "total": 0,
+                "scored": 0
+            },
+            "global": {
+                "total": 47,
+                "scored": 34
+            },
+            "pg": 0,
+            "rec": 0,
+            "ft": 0,
+            "fr": 0
+        }
+    },
+    {
+        "name": "Pablo Vainstein",
+        "team": "BM. Benidorm",
+        "playerNumber": 5,
+        "playerScore": 5,
+        "playerCost": 30100,
+        "position": "RW",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260310_05a_pablo_vainstein.jpg&width=350",
+        "nationality": "ARG",
+        "age": 32,
+        "weight": 92,
+        "height": 186,
+        "stats": {
+            "saves": 0,
+            "totalGoals": 481,
+            "matches": 160,
+            "average": 3.01,
+            "l9m": {
+                "total": 12,
+                "scored": 3
+            },
+            "l6m": {
+                "total": 28,
+                "scored": 17
+            },
+            "l7m": {
+                "total": 0,
+                "scored": 0
+            },
+            "lCont": {
+                "total": 2,
+                "scored": 2
+            },
+            "global": {
+                "total": 42,
+                "scored": 28
+            },
+            "pg": 5,
+            "rec": 5,
+            "ft": 1,
+            "fr": 0
+        }
+    },
+    {
+        "name": "Dragan Šoljic",
+        "team": "ABANCA Ademar León",
+        "playerNumber": 77,
+        "playerScore": 77,
+        "playerCost": 2200,
+        "position": "PV",
+        "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260916_77_dragan_soljic_1.jpg&width=350",
+        "nationality": "CRO",
+        "age": 25,
+        "weight": 92,
+        "height": 199,
+        "stats": {
+            "saves": 0,
+            "totalGoals": 4,
+            "matches": 12,
+            "average": 0.22,
+            "l9m": {
+                "total": 3,
+                "scored": 2
+            },
+            "l6m": {
+                "total": 0,
+                "scored": 0
+            },
+            "l7m": {
+                "total": 0,
+                "scored": 0
+            },
+            "lCont": {
+                "total": 2,
+                "scored": 2
+            },
+            "global": {
+                "total": 5,
+                "scored": 4
+            },
+            "pg": 0,
+            "rec": 3,
+            "ft": 0,
+            "fr": 0
+        }
+    }
+]

@@ -1,0 +1,23 @@
+.button {
+    background-color: #0E2B55;
+    border-radius: 50px;
+    color: #fff;
+    padding: 0.6em 6em;
+    margin: 1em 0;
+}
+
+.formSearch {
+    color: #4EACCE;
+    border-radius: 50px;
+    background-color: #fff;
+    border: solid 2px #4EACCE;
+    padding: 0 1em;
+}
+
+input {
+    width: 90%;
+    padding: 0.6em;
+    border: none;
+    color: #0E2B55;
+    outline: none;
+}

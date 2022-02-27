@@ -1,0 +1,33 @@
+[
+    {
+        "Total": {
+            "scored": 673,
+            "total": 937,
+            "ratio": 72
+        },
+        "Lanzamientos-9M": {
+            "scored": 292,
+            "total": 442,
+            "ratio": 66
+        },
+        "Lanzamientos-6M": {
+            "scored": 251,
+            "total": 338,
+            "ratio": 74
+        },
+        "Lanzamientos-7M": {
+            "scored": 51,
+            "total": 65,
+            "ratio": 78
+        },
+        "Lanzamientos-Contrataque": {
+            "scored": 79,
+            "total": 92,
+            "ratio": 86
+        },
+        "Pases-de-Gol": 104,
+        "Recuperaciones": 83,
+        "Faltas-tecnicas": 10,
+        "Faltas-reglamentarias": 0
+    }
+]

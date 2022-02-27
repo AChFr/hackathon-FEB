@@ -1,0 +1,33 @@
+[
+    {
+        "Total": {
+            "scored": 25,
+            "total": 100,
+            "ratio": 25
+        },
+        "Lanzamientos-9M": {
+            "scored": 25,
+            "total": 100,
+            "ratio": 25
+        },
+        "Lanzamientos-6M": {
+            "scored": 25,
+            "total": 100,
+            "ratio": 25
+        },
+        "Lanzamientos-7M": {
+            "scored": 25,
+            "total": 100,
+            "ratio": 25
+        },
+        "Lanzamientos-Contrataque": {
+            "scored": 25,
+            "total": 100,
+            "ratio": 25
+        },
+        "Pases-de-Gol": 0,
+        "Recuperaciones": 0,
+        "Faltas-tecnicas": 0,
+        "Faltas-reglamentarias": 0
+    }
+]

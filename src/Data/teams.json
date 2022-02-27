@@ -1,0 +1,662 @@
+[
+    {
+        "name": "Barça",
+        "Pavilion": "Palau Blaugrana",
+        "Coach": {
+            "name": "Antonio Carlos Ortega",
+            "img": "https://asobal.es/image.php?image=/imagenes/licencias/702_carlos_ortega_-_asobal_-_010.jpg&width=350"
+        },
+        "web-page": "www.fcbarcelona.cat",
+        "President": "Joan Laporta",
+        "City": "Barcelona",
+        "Trophies": [
+            {
+                "Season": "2021-2022",
+                "League": 1,
+                "Copa-del-Rey": 1,
+                "Copa-ASOBAL": 1,
+                "Supercopa": 1
+            },
+            {
+                "Season": "2020-2021",
+                "League": 1,
+                "Copa-del-Rey": 1,
+                "Copa-ASOBAL": 1,
+                "Supercopa": 1
+            }
+        ],
+        "Players": [
+            {
+                "name": "Gonzalo Pérez de Vargas Moreno",
+                "team": "Barça",
+                "playerNumber": 1,
+                "playerScore": 1,
+                "playerCost": 10000,
+                "position": "GK",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/1037_01_-_gonzalo_perez_de_vargas_-_asobal_-_001.jpg&width=350",
+                "nationality": "ESP",
+                "age": 31,
+                "weight": 84,
+                "height": 190,
+                "stats": {
+                    "saves": 120,
+                    "totalGoals": 18,
+                    "matches": 288,
+                    "average": 0.06,
+                    "l9m": {
+                        "total": 167,
+                        "scored": 76
+                    },
+                    "l6m": {
+                        "total": 129,
+                        "scored": 36
+                    },
+                    "l7m": {
+                        "total": 23,
+                        "scored": 6
+                    },
+                    "lCont": {
+                        "total": 28,
+                        "scored": 7
+                    },
+                    "global": {
+                        "total": 333,
+                        "scored": 120
+                    },
+                    "pg": 1,
+                    "rec": 0,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "Dika Mem",
+                "team": "Barça",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "RB",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260399_10_-_dika_mem_-_asobal_-_001.jpg&width=350",
+                "nationality": "FRA",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "Blaz Janc",
+                "team": "Barça",
+                "playerNumber": 18,
+                "playerScore": 18,
+                "playerCost": 31700,
+                "position": "RW",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260742_18_-_blaz_janc_-_asobal_-_001.jpg&width=350",
+                "nationality": "SLO",
+                "age": 25,
+                "weight": 89,
+                "height": 184,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 146,
+                    "matches": 146,
+                    "average": 3.17,
+                    "l9m": {
+                        "total": 18,
+                        "scored": 10
+                    },
+                    "l6m": {
+                        "total": 24,
+                        "scored": 18
+                    },
+                    "l7m": {
+                        "total": 0,
+                        "scored": 0
+                    },
+                    "lCont": {
+                        "total": 19,
+                        "scored": 18
+                    },
+                    "global": {
+                        "total": 61,
+                        "scored": 46
+                    },
+                    "pg": 9,
+                    "rec": 16,
+                    "ft": 1,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "Timothey N'Guessan",
+                "team": "Barça",
+                "playerNumber": 19,
+                "playerScore": 19,
+                "playerCost": 28300,
+                "position": "RW",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260398_19_-_timothey_nguessan_-_asobal_-_001.jpg&width=350",
+                "nationality": "FRA",
+                "age": 29,
+                "weight": 94,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 390,
+                    "matches": 128,
+                    "average": 2.83,
+                    "l9m": {
+                        "total": 38,
+                        "scored": 21
+                    },
+                    "l6m": {
+                        "total": 18,
+                        "scored": 13
+                    },
+                    "l7m": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "lCont": {
+                        "total": 0,
+                        "scored": 0
+                    },
+                    "global": {
+                        "total": 57,
+                        "scored": 35
+                    },
+                    "pg": 9,
+                    "rec": 4,
+                    "ft": 1,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "Aitor Ariño Bengoechea",
+                "team": "Barça",
+                "playerNumber": 13,
+                "playerScore": 13,
+                "playerCost": 28800,
+                "position": "LW",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/9012_13_-_aitor_arino_-_asobal_-_001.jpg&width=350",
+                "nationality": "ESP",
+                "age": 29,
+                "weight": 82,
+                "height": 187,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 729,
+                    "matches": 253,
+                    "average": 2.88,
+                    "l9m": {
+                        "total": 13,
+                        "scored": 12
+                    },
+                    "l6m": {
+                        "total": 17,
+                        "scored": 13
+                    },
+                    "l7m": {
+                        "total": 0,
+                        "scored": 0
+                    },
+                    "lCont": {
+                        "total": 9,
+                        "scored": 8
+                    },
+                    "global": {
+                        "total": 39,
+                        "scored": 33
+                    },
+                    "pg": 4,
+                    "rec": 5,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "Luka Cindric",
+                "team": "Barça",
+                "playerNumber": 25,
+                "playerScore": 25,
+                "playerCost": 30900,
+                "position": "CB",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260668_25_-_luka_cindric_-_asobal_-_001.jpg&width=350",
+                "nationality": "CRO",
+                "age": 28,
+                "weight": 90,
+                "height": 182,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 133,
+                    "matches": 43,
+                    "average": 3.09,
+                    "l9m": {
+                        "total": 22,
+                        "scored": 13
+                    },
+                    "l6m": {
+                        "total": 24,
+                        "scored": 20
+                    },
+                    "l7m": {
+                        "total": 0,
+                        "scored": 0
+                    },
+                    "lCont": {
+                        "total": 0,
+                        "scored": 0
+                    },
+                    "global": {
+                        "total": 46,
+                        "scored": 33
+                    },
+                    "pg": 12,
+                    "rec": 0,
+                    "ft": 1,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "Artur Parera Ibáñez",
+                "team": "Barça",
+                "playerNumber": 33,
+                "playerScore": 33,
+                "playerCost": 10000,
+                "position": "PB",
+                "img": "https://asobal.es/image.php?image=/imagenes/licencias/91260845_33_-_artur_parera_-_002.jpg&width=350",
+                "nationality": "CRO",
+                "age": 19,
+                "weight": 70,
+                "height": 185,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 11,
+                    "matches": 11,
+                    "average": 1,
+                    "l9m": {
+                        "total": 5,
+                        "scored": 1
+                    },
+                    "l6m": {
+                        "total": 11,
+                        "scored": 7
+                    },
+                    "l7m": {
+                        "total": 0,
+                        "scored": 0
+                    },
+                    "lCont": {
+                        "total": 3,
+                        "scored": 2
+                    },
+                    "global": {
+                        "total": 19,
+                        "scored": 10
+                    },
+                    "pg": 0,
+                    "rec": 0,
+                    "ft": 0,
+                    "fr": 0
+                }
+            }
+        ]
+    },
+    {
+        "name": "Equipo2",
+        "Pavilion": "polideportivo local",
+        "Coach": {
+            "name": "Entrenador",
+            "img": "http://www.copyflash.net/web/wp-content/uploads/bfi_thumb/our-team-4-1-32gnuklh724qwr4b45h6h6@2x.jpg"
+        },
+        "web-page": "www.balonmano.com",
+        "President": "Inversor",
+        "City": "LocalidadDesconocida",
+        "Trophies": [
+            {
+                "Season": "2021-2022",
+                "League": 1,
+                "Copa-del-Rey": 2,
+                "Copa-ASOBAL": 2,
+                "Supercopa": 2
+            },
+            {
+                "Season": "2020-2021",
+                "League": 1,
+                "Copa-del-Rey": 2,
+                "Copa-ASOBAL": 2,
+                "Supercopa": 2
+            }
+        ],
+        "Players": [
+            {
+                "name": "portero",
+                "team": "Equipo2",
+                "playerNumber": 1,
+                "playerScore": 1,
+                "playerCost": 10000,
+                "position": "GK",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 31,
+                "weight": 84,
+                "height": 190,
+                "stats": {
+                    "saves": 120,
+                    "totalGoals": 18,
+                    "matches": 288,
+                    "average": 0.06,
+                    "l9m": {
+                        "total": 167,
+                        "scored": 76
+                    },
+                    "l6m": {
+                        "total": 129,
+                        "scored": 36
+                    },
+                    "l7m": {
+                        "total": 23,
+                        "scored": 6
+                    },
+                    "lCont": {
+                        "total": 28,
+                        "scored": 7
+                    },
+                    "global": {
+                        "total": 333,
+                        "scored": 120
+                    },
+                    "pg": 1,
+                    "rec": 0,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "JugadorRB",
+                "team": "Equipo2",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "RB",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "JugadorLB",
+                "team": "Equipo2",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "LB",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "JugadorCB",
+                "team": "Equipo2",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "RB",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "JugadorLW",
+                "team": "Equipo2",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "RB",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "JugadorRW",
+                "team": "Equipo2",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "RB",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            },
+            {
+                "name": "JugadorPV",
+                "team": "Equipo2",
+                "playerNumber": 10,
+                "playerScore": 10,
+                "playerCost": 36800,
+                "position": "PV",
+                "img": "https://m.media-amazon.com/images/I/31N7mG5ciIL._AC_SX355_.jpg",
+                "nationality": "ESP",
+                "age": 24,
+                "weight": 90,
+                "height": 194,
+                "stats": {
+                    "saves": 0,
+                    "totalGoals": 548,
+                    "matches": 149,
+                    "average": 3.68,
+                    "l9m": {
+                        "total": 55,
+                        "scored": 40
+                    },
+                    "l6m": {
+                        "total": 12,
+                        "scored": 10
+                    },
+                    "l7m": {
+                        "total": 11,
+                        "scored": 10
+                    },
+                    "lCont": {
+                        "total": 1,
+                        "scored": 1
+                    },
+                    "global": {
+                        "total": 79,
+                        "scored": 61
+                    },
+                    "pg": 6,
+                    "rec": 4,
+                    "ft": 0,
+                    "fr": 0
+                }
+            }
+        ]
+    }
+]
