@@ -1,0 +1,11 @@
+.cardTeam {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em 0;
+}
+
+.cardTeam img {
+    width: 80px;
+}

@@ -1,14 +1,26 @@
 [
     {
-        "Local": "Barça",
-        "Visiting": "Eqipo2",
-        "Date": "29-02-2022",
+        "Local": {
+            "name": "Barça",
+            "img": "https://asobal.es/imagenes/jornada/club1.svg"
+        },
+        "Visiting": {
+            "name": "Equipo2",
+            "img": "https://asobal.es/imagenes/jornada/club2.svg"
+        },
+        "Date": "29-02-2022 18:00",
         "Stadium": "Palau Blaugrana"
     },
     {
-        "Local": "Eqipo2",
-        "Visiting": "Barça",
-        "Date": "230-02-2022",
+        "Local": {
+            "name": "Equipo2",
+            "img": "https://asobal.es/imagenes/jornada/club2.svg"
+        },
+        "Visiting": {
+            "name": "Barça",
+            "img": "https://asobal.es/imagenes/jornada/club1.svg"
+        },
+        "Date": "30-02-2022 19:00",
         "Stadium": "Polideportivo Municipal"
     }
 ]

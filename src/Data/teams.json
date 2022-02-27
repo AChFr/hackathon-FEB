@@ -2,6 +2,7 @@
     {
         "name": "Barça",
         "Pavilion": "Palau Blaugrana",
+        "img": "https://asobal.es/imagenes/jornada/club1.svg",
         "Coach": {
             "name": "Antonio Carlos Ortega",
             "img": "https://asobal.es/image.php?image=/imagenes/licencias/702_carlos_ortega_-_asobal_-_010.jpg&width=350"
@@ -13,22 +14,25 @@
             {
                 "Season": "2021-2022",
                 "League": 1,
-                "Copa-del-Rey": 1,
-                "Copa-ASOBAL": 1,
+                "CopaDelRey": 1,
+                "CopaASOBAL": 1,
                 "Supercopa": 1
             },
             {
                 "Season": "2020-2021",
                 "League": 1,
-                "Copa-del-Rey": 1,
-                "Copa-ASOBAL": 1,
+                "CopaDelRey": 1,
+                "CopaASOBAL": 1,
                 "Supercopa": 1
             }
         ],
         "Players": [
             {
                 "name": "Gonzalo Pérez de Vargas Moreno",
-                "team": "Barça",
+                "team": {
+                    "name": "Barça",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 1,
                 "playerScore": 1,
                 "playerCost": 10000,
@@ -71,7 +75,10 @@
             },
             {
                 "name": "Dika Mem",
-                "team": "Barça",
+                "team": {
+                    "name": "Equipo1",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,
@@ -114,7 +121,10 @@
             },
             {
                 "name": "Blaz Janc",
-                "team": "Barça",
+                "team": {
+                    "name": "Barça",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 18,
                 "playerScore": 18,
                 "playerCost": 31700,
@@ -157,7 +167,10 @@
             },
             {
                 "name": "Timothey N'Guessan",
-                "team": "Barça",
+                "team": {
+                    "name": "Barça",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 19,
                 "playerScore": 19,
                 "playerCost": 28300,
@@ -200,7 +213,10 @@
             },
             {
                 "name": "Aitor Ariño Bengoechea",
-                "team": "Barça",
+                "team": {
+                    "name": "Barça",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 13,
                 "playerScore": 13,
                 "playerCost": 28800,
@@ -243,7 +259,10 @@
             },
             {
                 "name": "Luka Cindric",
-                "team": "Barça",
+                "team": {
+                    "name": "Barça",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 25,
                 "playerScore": 25,
                 "playerCost": 30900,
@@ -286,7 +305,10 @@
             },
             {
                 "name": "Artur Parera Ibáñez",
-                "team": "Barça",
+                "team": {
+                    "name": "Barça",
+                    "img": "https://asobal.es/imagenes/jornada/club1.svg"
+                },
                 "playerNumber": 33,
                 "playerScore": 33,
                 "playerCost": 10000,
@@ -332,6 +354,7 @@
     {
         "name": "Equipo2",
         "Pavilion": "polideportivo local",
+        "img": "https://asobal.es/imagenes/jornada/club.svg",
         "Coach": {
             "name": "Entrenador",
             "img": "http://www.copyflash.net/web/wp-content/uploads/bfi_thumb/our-team-4-1-32gnuklh724qwr4b45h6h6@2x.jpg"
@@ -343,22 +366,25 @@
             {
                 "Season": "2021-2022",
                 "League": 1,
-                "Copa-del-Rey": 2,
-                "Copa-ASOBAL": 2,
+                "CopaDelRey": 2,
+                "CopaASOBAL": 2,
                 "Supercopa": 2
             },
             {
                 "Season": "2020-2021",
                 "League": 1,
-                "Copa-del-Rey": 2,
-                "Copa-ASOBAL": 2,
+                "CopaDelRey": 2,
+                "CopaASOBAL": 2,
                 "Supercopa": 2
             }
         ],
         "Players": [
             {
-                "name": "portero",
-                "team": "Equipo2",
+                "name": "Portero",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 1,
                 "playerScore": 1,
                 "playerCost": 10000,
@@ -401,7 +427,10 @@
             },
             {
                 "name": "JugadorRB",
-                "team": "Equipo2",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,
@@ -444,7 +473,10 @@
             },
             {
                 "name": "JugadorLB",
-                "team": "Equipo2",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,
@@ -487,7 +519,10 @@
             },
             {
                 "name": "JugadorCB",
-                "team": "Equipo2",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,
@@ -530,7 +565,10 @@
             },
             {
                 "name": "JugadorLW",
-                "team": "Equipo2",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,
@@ -573,7 +611,10 @@
             },
             {
                 "name": "JugadorRW",
-                "team": "Equipo2",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,
@@ -616,7 +657,10 @@
             },
             {
                 "name": "JugadorPV",
-                "team": "Equipo2",
+                "team": {
+                    "name": "Equipo2",
+                    "img": "https://asobal.es/imagenes/jornada/club2.svg"
+                },
                 "playerNumber": 10,
                 "playerScore": 10,
                 "playerCost": 36800,

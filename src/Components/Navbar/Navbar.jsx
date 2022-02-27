@@ -10,9 +10,9 @@ const Navbar = () => {
         <NavigationBar fixed="bottom" bg="light" variant="light">
 
             <Nav className="nav">
-                <Link to="#home"><FontAwesomeIcon icon={faHouse} /><p>Home</p></Link>
-                <Link to="#market"><FontAwesomeIcon icon={faArrowRightArrowLeft} /><p>Mercado</p></Link>
-                <Link to="#myTeam"><FontAwesomeIcon icon={faBorderAll} /><p>Mi equipo</p></Link>
+                <Link to="/home"><FontAwesomeIcon icon={faHouse} /><p>Home</p></Link>
+                <Link to="/market"><FontAwesomeIcon icon={faArrowRightArrowLeft} /><p>Mercado</p></Link>
+                <Link to="/my-team"><FontAwesomeIcon icon={faBorderAll} /><p>Mi equipo</p></Link>
                 <Link to="#ranking"><FontAwesomeIcon icon={faTrophy} /><p>Ranking</p></Link>
                 <Link to="#profile"><FontAwesomeIcon icon={faUser} /><p>Perfil</p></Link>
             </Nav>

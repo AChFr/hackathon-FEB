@@ -3,6 +3,7 @@ import './style.css'
 import Searchbar from "../Components/SearchBar/Searchbar"
 import SearchResult from "../Components/SearchResult/Searchresult"
 import { useState } from "react"
+import Navbar from "../Components/Navbar/Navbar"
 
 const Marketpage = () => {
 
@@ -18,7 +19,8 @@ const Marketpage = () => {
 
         let filteredPlayers
 
-        str ? filteredPlayers = playersCopy.filter(elm => elm.name.includes(str)) : filteredPlayers = playersCopy
+        str ? filteredPlayers = playersCopy.filter(elm => elm.name.includes(str))
+            : filteredPlayers = playersCopy
 
         setPlayersList(filteredPlayers)
     }
@@ -28,6 +30,7 @@ const Marketpage = () => {
             <h1 className="text-center">Mercado</h1>
             <Searchbar filter={filter} />
             <SearchResult playersList={playersList} />
+            <Navbar />
         </div>
     )
 }

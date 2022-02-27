@@ -10,8 +10,6 @@ const Searchbar = ({ filter }) => {
 
     }
 
-
-
     return (
         <Form className='formSearch'>
             <FontAwesomeIcon icon={faMagnifyingGlass} />

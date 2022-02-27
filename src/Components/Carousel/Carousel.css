@@ -1,0 +1,19 @@
+.carousel {
+    width: 90%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2em auto;
+}
+
+.carousel img {
+    width: 100%;
+}
+
+.carousel button {
+    background: none;
+    border: none;
+    font-size: 2em;
+    color: #4EACCE;
+}

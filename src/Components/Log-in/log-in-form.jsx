@@ -9,7 +9,7 @@ const LogIn = () => {
             <Image className="img-fluid" fluid src="./assets/asobalImage1.png" />
 
             <Form.Group className="mb-3 text-start" controlId="LogUserInput">
-                <Form.Label className="label">Nombre de usuario</Form.Label>
+                <Form.Label className="label">Dirección de correo</Form.Label>
                 <Form.Control className="input" type="email" placeholder="Nombre de usuario" />
             </Form.Group>
 
@@ -18,12 +18,12 @@ const LogIn = () => {
                 <Form.Control className="input" type="password" placeholder="Contraseña" />
             </Form.Group>
 
-            <Button className="button" variant="info" type="submit">
+            <Link to="/home"><Button className="button" variant="info" type="submit">
                 Iniciar Sesión
-            </Button>
+            </Button></Link>
             <br />
             <Form.Text><span>¿No tienes cuenta aún? </span></Form.Text>
-            <Link to="#"> Regístrate</Link>
+            <Link to="/register"> Regístrate</Link>
         </Form>
     )
 }

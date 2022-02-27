@@ -1,0 +1,36 @@
+.cardMatch {
+    width: 100%;
+    border-radius: 20px;
+    background-color: #0E2B55;
+}
+
+.cardMatch article {
+    margin: 1.2em 0;
+}
+
+.cardMatch img {
+    width: 60px;
+    background: #fff;
+    border-radius: 50%;
+    padding: 0.4em;
+}
+
+.vs {
+    font-size: 1.2em;
+    color: #4EACCE;
+}
+
+.cardMatch p {
+    color: #4EACCE;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.cardMatch span {
+    color: #fff;
+}
+
+h3 {
+    color: #fff;
+}

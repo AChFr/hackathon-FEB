@@ -1,17 +1,23 @@
 import Navbar from "../Components/Navbar/Navbar"
+import Cardteam from "../Components/Cardteam/Cardteam"
+import Nextmatch from "../Components/NextMatch/NextMatch"
+import Carousel from "../Components/Carousel/Carousel"
+
 const Homepage = () => {
     return (
-        <>
-            <h1>INICIO</h1>
-            <br />
+        <div className="background">
+            <h1>Home</h1>
             <h2>Mi equipo</h2>
+            <Cardteam />
 
-            <h2>Siguiente partido</h2>
+            <h2>Siguientes partidos</h2>
+            <Nextmatch />
+
             <h2>Noticias</h2>
+            <Carousel />
 
             <Navbar />
-        </>
-
+        </div>
     )
 }
 

@@ -5,29 +5,29 @@
             "total": 937,
             "ratio": 72
         },
-        "Lanzamientos-9M": {
+        "Lanzamientos9M": {
             "scored": 292,
             "total": 442,
             "ratio": 66
         },
-        "Lanzamientos-6M": {
+        "Lanzamientos6M": {
             "scored": 251,
             "total": 338,
             "ratio": 74
         },
-        "Lanzamientos-7M": {
+        "Lanzamientos7M": {
             "scored": 51,
             "total": 65,
             "ratio": 78
         },
-        "Lanzamientos-Contrataque": {
+        "LanzamientosContrataque": {
             "scored": 79,
             "total": 92,
             "ratio": 86
         },
-        "Pases-de-Gol": 104,
+        "PasesDeGol": 104,
         "Recuperaciones": 83,
-        "Faltas-tecnicas": 10,
-        "Faltas-reglamentarias": 0
+        "FaltasTecnicas": 10,
+        "FaltasReglamentarias": 0
     }
 ]
